@@ -8,7 +8,7 @@ import java.util.Scanner;
 //import java.util.
 /**
  *
- * @author l2v79z957
+ * @author Sibusiso Mabaso
  */
 public class Question1 {
 
